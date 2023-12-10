@@ -1,0 +1,14 @@
+{
+   "drowning.warning": {
+        "sounds": [
+            "sonic_drowning"
+        ],
+        "category": "player"
+   },
+   "mark.curse": {
+      "sounds": [
+          "mark_curse"
+      ],
+      "category": "player"
+   }
+}
