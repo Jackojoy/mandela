@@ -335,9 +335,9 @@
      ],
      "category": "player"
    },
-   "feedbacker.parry": {
+   "feedbacker.block": {
      "sounds": [
-         "v1/feedbacker_parry"
+         "v1/feedbacker_block"
      ],
      "category": "player"
    },
