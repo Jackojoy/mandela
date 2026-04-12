@@ -347,6 +347,12 @@
      ],
      "category": "player"
    },
+   "feedbacker.punch": {
+     "sounds": [
+         "v1/feedbacker_punch"
+     ],
+     "category": "player"
+   },
    "v1.heal": {
      "sounds": [
          "v1/heal"
