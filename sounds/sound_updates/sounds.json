@@ -158,15 +158,15 @@
      ],
      "category": "player"
    },
-   "metal.commands": {
+   "dead.or.alive": {
      "sounds": [
-         "metal_commands"
+         "metal_sonic/dead_or_alive"
      ],
      "category": "player"
    },
-   "dead.or.alive": {
+   "metal.commands": {
      "sounds": [
-         "dead_or_alive"
+         "metal_sonic/metal_commands"
      ],
      "category": "player"
    },
@@ -190,7 +190,7 @@
    },
    "pcx.idle": {
      "sounds": [
-         "pcx_idle"
+         "pcx/pcx_idle"
      ],
      "category": "player"
    },
