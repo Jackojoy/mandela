@@ -341,6 +341,12 @@
      ],
      "category": "player"
    },
+   "feedbacker.parry": {
+     "sounds": [
+         "v1/feedbacker_parry"
+     ],
+     "category": "player"
+   },
    "v1.heal": {
      "sounds": [
          "v1/heal"
