@@ -1,4 +1,68 @@
 {
+   "2011x.chase.theme": {
+     "sounds": [
+         "2011x/2011x_chase_theme"
+     ],
+     "category": "player"
+   },
+   "2011x.laugh": {
+     "sounds": [
+         "2011x/2011x_laugh"
+     ],
+     "category": "player"
+   },
+   "rage.mode.2011x": {
+     "sounds": [
+         "2011x/rage_mode_2011x"
+     ],
+     "category": "player"
+   },
+   "ready.or.not.here.i.come": {
+     "sounds": [
+         "2011x/ready_or_not_here_i_come"
+     ],
+     "category": "player"
+   },
+   "2017x.laugh": {
+     "sounds": [
+         "2017x/2017x_laugh"
+     ],
+     "category": "player"
+   },
+   "2017x.theme": {
+     "sounds": [
+         "2017x/2017x_theme"
+     ],
+     "category": "player"
+   },
+   "cracked.empire": {
+     "sounds": [
+         "eggman/cracked_empire"
+     ],
+     "category": "player"
+   },
+   "get.a.load.of.this": {
+     "sounds": [
+         "eggman/get_a_load_of_this"
+     ],
+     "category": "player"
+   },
+   "fleetway.taunt": {
+     "sounds": [
+         "fleetlines/1",
+         "fleetlines/2",
+         "fleetlines/3",
+         "fleetlines/4",
+         "fleetlines/5",
+         "fleetlines/6",
+         "fleetlines/7",
+         "fleetlines/8",
+         "fleetlines/9",
+         "fleetlines/10",
+         "fleetlines/11"
+     ],
+     "category": "player"
+   },
    "drowning.warning": {
         "sounds": [
             "sonic_drowning"
@@ -38,22 +102,6 @@
    "sizzle": {
      "sounds": [
          "sizzle"
-     ],
-     "category": "player"
-   },
-   "fleetway.taunt": {
-     "sounds": [
-         "fleetlines/1",
-         "fleetlines/2",
-         "fleetlines/3",
-         "fleetlines/4",
-         "fleetlines/5",
-         "fleetlines/6",
-         "fleetlines/7",
-         "fleetlines/8",
-         "fleetlines/9",
-         "fleetlines/10",
-         "fleetlines/11"
      ],
      "category": "player"
    },
@@ -110,21 +158,9 @@
      ],
      "category": "player"
    },
-   "get.a.load.of.this": {
-     "sounds": [
-         "get_a_load_of_this"
-     ],
-     "category": "player"
-   },
    "metal.commands": {
      "sounds": [
          "metal_commands"
-     ],
-     "category": "player"
-   },
-   "cracked.empire": {
-     "sounds": [
-         "cracked_empire"
      ],
      "category": "player"
    },
@@ -140,18 +176,6 @@
      ],
      "category": "player"
    },
-   "2011x.laugh": {
-     "sounds": [
-         "2011x_laugh"
-     ],
-     "category": "player"
-   },
-   "2017x.laugh": {
-     "sounds": [
-         "2017x_laugh"
-     ],
-     "category": "player"
-   },
    "xeno.laugh": {
      "sounds": [
          "xeno_laugh"
@@ -161,24 +185,6 @@
    "exe.ability": {
      "sounds": [
          "exe_ability"
-     ],
-     "category": "player"
-   },
-   "2017x.theme": {
-     "sounds": [
-         "2017x_theme"
-     ],
-     "category": "player"
-   },
-   "ready.or.not.here.i.come": {
-     "sounds": [
-         "ready_or_not_here_i_come"
-     ],
-     "category": "player"
-   },
-   "rage.mode.2011x": {
-     "sounds": [
-         "rage_mode_2011x"
      ],
      "category": "player"
    },
@@ -225,12 +231,6 @@
      ],
      "category": "player"
    },
-   "2011x.chase.theme": {
-     "sounds": [
-         "2011x_chase_theme"
-     ],
-     "category": "player"
-   },
    "spy.cloak": {
      "sounds": [
          "spy_cloak"
@@ -272,66 +272,66 @@
    },
    "coin.flip": {
      "sounds": [
-         "coin_flip"
+         "v1/coin_flip"
      ],
      "category": "player"
    },
    "sliding": {
      "sounds": [
-         "sliding"
+         "v1/sliding"
      ],
      "category": "player"
    },
    "knuckleblaster.punch": {
      "sounds": [
-         "knuckleblaster/knuckleblaster_punch"
+         "v1/knuckleblaster/knuckleblaster_punch"
      ],
      "category": "player"
    },
    "knuckleblaster.shockwave": {
      "sounds": [
-         "knuckleblaster/shockwave_1",
-         "knuckleblaster/shockwave_2",
-         "knuckleblaster/shockwave_3",
-         "knuckleblaster/shockwave_4",
-         "knuckleblaster/shockwave_5",
-         "knuckleblaster/shockwave_6"
+         "v1/knuckleblaster/shockwave_1",
+         "v1/knuckleblaster/shockwave_2",
+         "v1/knuckleblaster/shockwave_3",
+         "v1/knuckleblaster/shockwave_4",
+         "v1/knuckleblaster/shockwave_5",
+         "v1/knuckleblaster/shockwave_6"
      ],
      "category": "player"
    },
    "knuckleblaster.reload": {
      "sounds": [
-         "knuckleblaster/knuckleblaster_reload"
+         "v1/knuckleblaster/knuckleblaster_reload"
      ],
      "category": "player"
    },
    "whiplash.shoot": {
      "sounds": [
-         "whiplash_shoot"
+         "v1/whiplash_shoot"
      ],
      "category": "player"
    },
    "whiplash.pull": {
      "sounds": [
-         "whiplash_pull"
+         "v1/whiplash_pull"
      ],
      "category": "player"
    },
    "enraged.start": {
      "sounds": [
-         "enraged_start"
+         "v1/enraged_start"
      ],
      "category": "player"
    },
    "enraged.idle": {
      "sounds": [
-         "enraged_idle"
+         "v1/enraged_idle"
      ],
      "category": "player"
    },
    "enraged.end": {
      "sounds": [
-         "enraged_end"
+         "v1/enraged_end"
      ],
      "category": "player"
    },
@@ -349,7 +349,7 @@
    },
    "vip.slasher.chase.theme": {
      "sounds": [
-         "vip_slasher_chase_theme"
+         "jason/vip_slasher_chase_theme"
      ],
      "category": "player"
    },
