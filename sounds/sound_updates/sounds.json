@@ -365,6 +365,12 @@
      ],
      "category": "player"
    },
+   "raging.pace": {
+     "sounds": [
+         "jason/raging_pace"
+     ],
+     "category": "player"
+   },
    "vip.slasher.chase.theme": {
      "sounds": [
          "jason/vip_slasher_chase_theme"
