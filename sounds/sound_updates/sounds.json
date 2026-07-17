@@ -282,6 +282,12 @@
      ],
      "category": "player"
    },
+   "landing.ground.slam": {
+     "sounds": [
+         "v1/landing_ground_slam"
+     ],
+     "category": "player"
+   },
    "knuckleblaster.punch": {
      "sounds": [
          "v1/knuckleblaster/knuckleblaster_punch"
