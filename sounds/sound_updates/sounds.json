@@ -353,6 +353,12 @@
      ],
      "category": "player"
    },
+   "feedbacker.swing": {
+     "sounds": [
+         "v1/feedbacker_swing"
+     ],
+     "category": "player"
+   },
    "feedbacker.punch": {
      "sounds": [
          "v1/feedbacker_punch"
