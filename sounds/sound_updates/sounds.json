@@ -63,6 +63,30 @@
      ],
      "category": "player"
    },
+   "kollosos.charge": {
+     "sounds": [
+         "kollosos/kolo_charge"
+     ],
+     "category": "player"
+   },
+   "kollosos.laugh": {
+     "sounds": [
+         "kollosos/kolo_laugh"
+     ],
+     "category": "player"
+   },
+   "kollosos.laugh.brute": {
+     "sounds": [
+         "kollosos/kolo_laugh_brute"
+     ],
+     "category": "player"
+   },
+   "kollosos.laugh.goofy": {
+     "sounds": [
+         "kollosos/kolo_laugh_goofy"
+     ],
+     "category": "player"
+   },
    "drowning.warning": {
         "sounds": [
             "sonic_drowning"
@@ -137,6 +161,42 @@
    "revolver.reload": {
      "sounds": [
          "weapons/revolver/reload"
+     ],
+     "category": "player"
+   },
+   "arm.cannon.charge": {
+     "sounds": [
+         "weapons/arm_cannon/charge"
+     ],
+     "category": "player"
+   },
+   "arm.cannon.idle.loop": {
+     "sounds": [
+         "weapons/arm_cannon/idle_loop"
+     ],
+     "category": "player"
+   },
+   "arm.cannon.ready": {
+     "sounds": [
+         "weapons/arm_cannon/ready"
+     ],
+     "category": "player"
+   },
+   "arm.cannon.shoot": {
+     "sounds": [
+         "weapons/arm_cannon/shoot"
+     ],
+     "category": "player"
+   },
+   "arm.cannon.trigger": {
+     "sounds": [
+         "weapons/arm_cannon/trigger"
+     ],
+     "category": "player"
+   },
+   "tails.doll.laugh": {
+     "sounds": [
+         "tails_doll_laugh"
      ],
      "category": "player"
    },
