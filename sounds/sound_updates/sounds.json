@@ -5,6 +5,12 @@
      ],
      "category": "player"
    },
+   "2011x.last.life.chase.theme": {
+     "sounds": [
+         "2011x/2011x_last_life_chase"
+     ],
+     "category": "player"
+   },
    "2011x.laugh": {
      "sounds": [
          "2011x/2011x_laugh"
@@ -281,13 +287,19 @@
    },
    "pcx.chase.theme": {
      "sounds": [
-         "pcx_chase_theme"
+         "pcx/pcx_chase_theme"
      ],
      "category": "player"
    },
    "ultimate.chase.theme": {
      "sounds": [
-         "ultimate_chase_theme"
+         "pcx/ultimate_chase_theme"
+     ],
+     "category": "player"
+   },
+   "2011x.pcx.chase.theme": {
+     "sounds": [
+         "pcx/2011x_chase_theme"
      ],
      "category": "player"
    },
