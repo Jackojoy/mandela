@@ -5,9 +5,21 @@
      ],
      "category": "player"
    },
+   "2011x.classic.chase.theme": {
+     "sounds": [
+         "2011x/classic_chase_theme"
+     ],
+     "category": "player"
+   },
    "2011x.last.life.chase": {
      "sounds": [
          "2011x/2011x_last_life_chase"
+     ],
+     "category": "player"
+   },
+   "2011x.classic.last.life.chase": {
+     "sounds": [
+         "2011x/classic_last_life_chase"
      ],
      "category": "player"
    },
@@ -20,6 +32,12 @@
    "rage.mode.2011x": {
      "sounds": [
          "2011x/rage_mode_2011x"
+     ],
+     "category": "player"
+   },
+   "rage.mode.2011x.classic": {
+     "sounds": [
+         "2011x/rage_mode_classic"
      ],
      "category": "player"
    },
@@ -297,7 +315,7 @@
      ],
      "category": "player"
    },
-   "2011x.pcx.chase.theme": {
+   "pcx.2011x.chase.theme": {
      "sounds": [
          "pcx/2011x_chase_theme"
      ],
